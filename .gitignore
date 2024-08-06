@@ -1,0 +1,5 @@
+export-helpscout-key.sh
+node_modules
+mailbox-exports
+helpscout_docs.json
+output.log
